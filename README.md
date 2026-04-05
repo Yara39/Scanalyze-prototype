@@ -15,20 +15,18 @@ and do the same thing for ingredients as in the previous step
 
 in case you want to test this:
 
-<<<<<<< HEAD
 YOU HAVE TO RUN node.js (server.js) file first as it is a backend api for the backend solution
 
 -----PLEASE READ THE COMMENTS IN MAIN.DART IF U WANT TO TEST-------
 
 check the backend section for the backend api as it differs depending on the type of test u want to do
 as in web or on android emulator
-=======
+
 first upload the sql into mysql
 YOU HAVE TO RUN node.js (server.js) file first as it is a backend api for the backend solution
 
 check the backend section for the backend api as it differs depending on the type of test u want to do
 as in web or on android emulator or using a device
->>>>>>> d20785b (Cleaner code structure and updated the readme)
 
 and in case u want to test it on android emulator
 
@@ -40,11 +38,8 @@ the line : android:usesCleartextTraffic="true"
 
 following this path in the android folder
 android/app/src/main/AndroidManifest.xml
-<<<<<<< HEAD
-=======
 
 if you want to test it on a device
 1. replace localhost with the local api
 
 in case web just keep it same as localhost
->>>>>>> d20785b (Cleaner code structure and updated the readme)
